@@ -6,28 +6,29 @@ Welcome to my GitHub profile!
 
 I am passionate about software development and always eager to learn new technologies. My interests include:
 
-- Web Development
-- Mobile Application Development
-- Cloud Computing
-- DevOps
+- 🌐 Web Development
+- 📱 Mobile Application Development
+- ☁️ Cloud Computing
+- 🚀 DevOps
 
 ## 🌱 Currently Learning
 
 I am continuously improving my skills and currently focusing on:
 
-- TypeScript
-- React Native
-- Next.js
-- Kubernetes
+- 🟦 TypeScript
+- ⚛️ React Js
+- 🌐 Next.js
+- ☸️ Node js
+- JavaScript 
 
 ## 💞️ Collaboration
 
 I am looking to collaborate on exciting projects that involve:
 
-- Frontend Development using React or Vue
-- Backend Development with Node.js and Express
-- Mobile Applications with React Native
-- Cloud Solutions and DevOps Practices
+- 🖥️ Frontend Development using React or Vue
+- 🛠️ Backend Development with Node.js and Express
+- 📱 Mobile Applications with React Native
+- ☁️ Cloud Solutions and DevOps Practices
 
 ## 📫 How to Reach Me
 
