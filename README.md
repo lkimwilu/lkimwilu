@@ -36,7 +36,7 @@ You can reach me via email: [lkimwilu@gmail.com](mailto:lkimwilu@gmail.com)
 
 ## 😄 Pronouns
 
-- He/Him
+- She/Her
 
 ## ⚡ Fun Fact
 
