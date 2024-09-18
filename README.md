@@ -34,7 +34,7 @@ I am looking to collaborate on exciting projects that involve:
 
 - 🖥️ Frontend Development using React or Vue
 - 🛠️ Backend Development with Node.js and Express
-- 📱 Mobile Applications with React Native or Flutter
+- 📱 Mobile Applications with Flutter
 - ☁️ Cloud Solutions and DevOps Practices
 
 ## 📫 How to Reach Me
