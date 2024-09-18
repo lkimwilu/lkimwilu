@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @lkimwilu
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?tech,coding) <!-- You can replace this with any custom image link -->
+![GitHub Banner]([https://source.unsplash.com/1600x400/?tech,coding](https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)) <!-- You can replace this with any custom image link -->
 
 <div align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100">
