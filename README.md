@@ -1,6 +1,10 @@
 # 👋 Hi, I’m @lkimwilu
 
-Welcome to my GitHub profile!
+![GitHub Banner](https://source.unsplash.com/1600x400/?tech,coding) <!-- You can replace this with any custom image link -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100">
+</div>
 
 ## 👀 About Me
 
@@ -16,10 +20,13 @@ I am passionate about software development and always eager to learn new technol
 I am continuously improving my skills and currently focusing on:
 
 - 🟦 TypeScript
-- ⚛️ React Js
+- ⚛️ React JS
 - 🌐 Next.js
-- ☸️ Node js
-- JavaScript 
+- ☸️ Node.js
+- 🐍 Python
+- 🎯 Dart & Flutter
+- Tailwind CSS
+- PrimeReact
 
 ## 💞️ Collaboration
 
@@ -27,7 +34,7 @@ I am looking to collaborate on exciting projects that involve:
 
 - 🖥️ Frontend Development using React or Vue
 - 🛠️ Backend Development with Node.js and Express
-- 📱 Mobile Applications with React Native
+- 📱 Mobile Applications with React Native or Flutter
 - ☁️ Cloud Solutions and DevOps Practices
 
 ## 📫 How to Reach Me
@@ -41,6 +48,12 @@ You can reach me via email: [lkimwilu@gmail.com](mailto:lkimwilu@gmail.com)
 ## ⚡ Fun Fact
 
 I love traveling and exploring new cultures. When I'm not coding, you can find me hiking or reading a good book.
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400">
+</div>
 
 <!---
 lkimwilu/lkimwilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
